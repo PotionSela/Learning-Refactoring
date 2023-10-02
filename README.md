@@ -8,4 +8,4 @@ The format has been changed to follow the proper semantic format. The CSS has be
 ![Screenshot (23)](https://github.com/PotionSela/Learning-Refactoring/assets/143529855/d5a82909-54f6-4ab5-811d-0be357d62658)
 
 # Link
-file:///C:/Users/gisel/bootcamp/UNH-VIRT-FSF-PT-09-2023-U-LOLC/01-HTML-Git-CSS/02-Challenge/Develop/index.html 
+https://potionsela.github.io/Learning-Refactoring/
