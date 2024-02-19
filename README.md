@@ -1,4 +1,18 @@
-# **Learning-Refactoring**
+# **Refactoring-Time**
+
+---
+
+## Table of Contents
+- [Description](#description)
+- [Screenshots](#screenshots)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Features](#features)
+- [Usage Information](#usage-information)
+- [Contribution Guidelines](#contribution-guidelines)
+- [License](#license)
+- [Questions](#questions)
+
 Learning HTML, CSS, and moving around in GitHub. This is here for me to learn about refactoring.
 
 # **Description**
